@@ -22,6 +22,8 @@ function letterCombinations(input) {
 		}
 	} 
 	solve(0,"")
+	return solution
 }
 
 module.exports = letterCombinations;
+
